@@ -1,0 +1,8 @@
+.center {
+  text-align: center;
+}
+
+#switch {
+  height: 60px;
+  cursor: pointer;
+}
